@@ -1,0 +1,1645 @@
+[33mcommit dc1d0cab9b287eeea557dc90868581b7add57f92[m[33m ([m[1;36mHEAD -> [m[1;32mga[m[33m)[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Tue Jan 19 11:17:45 2021 +0300
+
+    Test
+
+[33mcommit b8e0d6df5dc23eceda082b36351e7fcf47a4f150[m[33m ([m[1;31morigin/ga[m[33m)[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Tue Jan 19 11:10:56 2021 +0300
+
+    Test
+
+[33mcommit 0685a997528d4e09892552920905cc92b9ad5ed5[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Tue Jan 19 11:05:21 2021 +0300
+
+    Test
+
+[33mcommit 48a8db37b94fdbb54af7c7343123798671196f5a[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Tue Jan 19 10:53:39 2021 +0300
+
+    Test
+
+[33mcommit 94f30952708a58779ec2d0db47f6ff0a14cf8217[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Mon Jan 18 18:33:11 2021 +0300
+
+    Test
+
+[33mcommit 70facf3cf01a015fe20d1603d889711e871e7b03[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Mon Jan 18 18:17:07 2021 +0300
+
+    Test
+
+[33mcommit 0cef1aa21290c57b5f9943f3e4813b3ba779edce[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Mon Jan 18 18:14:00 2021 +0300
+
+    Test
+
+[33mcommit 022035f515538a17460d444a124a6c591fc4a4ca[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Mon Jan 18 18:09:36 2021 +0300
+
+    Test
+
+[33mcommit 6b65966ceebe7312e08e265388b62e620550ba6f[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Mon Jan 18 17:25:27 2021 +0300
+
+    Test
+
+[33mcommit b0d8b82ba451b9dae3a01ca647c55e875f9917a7[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Mon Jan 18 17:20:45 2021 +0300
+
+    Test
+
+[33mcommit 9ab8cc9a9f01b23d91cbcdf824f61fc2edfbfe23[m
+Author: dima-uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Mon Jan 18 17:14:44 2021 +0300
+
+    Test
+
+[33mcommit 537bf64631eff191cec0c5385904eb6cd49daa07[m
+Author: Dima Uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Thu Dec 24 13:56:55 2020 +0300
+
+    Create presta.yml
+
+[33mcommit 66e678f50cf89aceafd7b6a3390aba272fdd3118[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: max-baranikov <max.baranikov@gmail.com>
+Date:   Thu Dec 31 12:00:22 2020 +0300
+
+    Clearing CURRENT_TASK on JobManager shutdown, remove CONTEXT_ALL and use global values instead
+
+[33mcommit f2a96e92d1537d83672687247ec08f9bae1f51e7[m
+Author: max-baranikov <max.baranikov@gmail.com>
+Date:   Mon Dec 28 14:51:01 2020 +0300
+
+    Using generators in the ICML generation process
+
+[33mcommit 65fb25703bf5acf45b2acb0a0f4d1fdf402243f4[m
+Author: max-baranikov <max.baranikov@gmail.com>
+Date:   Sun Dec 27 14:48:36 2020 +0300
+
+    Added MultiStore support
+
+[33mcommit 07a9056a8299e313d74679392b6de8178fbd6340[m
+Author: Dima Uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Wed Dec 23 11:17:11 2020 +0300
+
+    Improve selection of identical options in select field in settings
+
+[33mcommit 9a0b732f5031e16bd3a34c04d34fda0e7e2b6518[m[33m ([m[1;33mtag: v3.2.1[m[33m)[m
+Author: opheugene <opheugene@gmail.com>
+Date:   Tue Dec 15 17:19:21 2020 +0300
+
+    Rebranding RetailCRM
+
+[33mcommit 5565bbaf9b70825436ced9197df86dc63c56c9a5[m[33m ([m[1;33mtag: v3.2.0[m[33m)[m
+Author: opheugene <opheugene@gmail.com>
+Date:   Tue Dec 1 22:48:25 2020 +0300
+
+    Changed links for registering the system to receive a demo, Bump version
+
+[33mcommit 3be6279f7e84a53d6b204959bb7d9d99c6bd2f35[m
+Author: max-baranikov <max.baranikov@gmail.com>
+Date:   Tue Nov 24 17:15:24 2020 +0300
+
+    Fix discount calculation. Attach guest order to crm customer by email
+
+[33mcommit 54959b7a15801a32802adfc7b78758c1296f7237[m
+Author: opheugene <opheugene@gmail.com>
+Date:   Thu Nov 19 12:29:30 2020 +0300
+
+    Fixed resetting customer's fields in Prestashop in case of it deleting in RetailCRM
+
+[33mcommit 114ae5efd1efea85c595aad1e00be91f123a16fe[m
+Author: max-baranikov <max.baranikov@gmail.com>
+Date:   Tue Nov 17 11:56:34 2020 +0300
+
+    Added custom classes loading in bootstrap.php, fixed discount upload
+    
+    * Added custom classes loading in bootstrap.php. Fixed discount uploading  in case when payment type not configured
+    * Add customization info to README
+
+[33mcommit fb0c45bfd06f4e3d8d083af7a9012029a016ea75[m
+Author: opheugene <opheugene@gmail.com>
+Date:   Thu Nov 12 13:57:54 2020 +0300
+
+    Fixed root-category relation with home-category
+    
+    Co-authored-by: Eugene Polozov <eugene@retailcrm.es>
+
+[33mcommit 41ce30b143bdd733a2518a1e6329d5cf08d76222[m
+Author: Dima Uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Wed Nov 11 18:34:57 2020 +0300
+
+    Fixed the error with same client addresses (#85)
+
+[33mcommit f8620c99513ea89777cdb9b70432ee1c555e3465[m
+Author: Dima Uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Wed Nov 11 10:31:20 2020 +0300
+
+    Changed clearing empty fields (#84)
+
+[33mcommit 4afadc2d60521ec8f6ce23faafe8032a06b7a07c[m
+Author: Dima Uryvskiy <dima-uryvskiyy@rambler.ru>
+Date:   Tue Nov 10 10:03:23 2020 +0300
+
+    Fix problem with composer. Use composer version 1.10.17 (#88)
+
+[33mcommit a06074a97831ba5a1be4f9dc14aa5bc234016324[m[33m ([m[1;33mtag: v3.1.1[m[33m)[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Wed Jul 22 15:23:52 2020 +0300
+
+    Do not check key existence for job manager
+
+[33mcommit 5886df2cc29fde1a47ba1b9728f2131f81305aae[m[33m ([m[1;33mtag: v3.1.0[m[33m)[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Wed Jul 8 18:05:42 2020 +0300
+
+    Bump version
+
+[33mcommit a62b0e77cd81aa379172424916be6808b9ae499b[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Wed Jul 8 16:09:45 2020 +0300
+
+    Customer change logic
+
+[33mcommit c90adf1913e9e1868515ed36f159b803d36be9c1[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Tue May 26 12:25:53 2020 +0300
+
+    Use state field in address
+    
+    * use state in address
+    * make tests independent
+
+[33mcommit b8d052bda29ab2b94ad58fc396e107950e0537a3[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Wed May 20 13:39:18 2020 +0300
+
+    Offer prices tax
+    
+    * [fix] offer prices tax & better error logging in job manager
+
+[33mcommit 8a3f87ce81494b23f02c328f21429a0098c16583[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Mon May 18 14:48:03 2020 +0300
+
+    ability to enable or disable job manager runs via client request
+    
+    * ability to enable or disable job manager runs via client request
+    * ability to run all jobs via cli
+
+[33mcommit 7db8ff50441722589d799e4ca75dc5b0bb2f9797[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Mon May 18 14:47:20 2020 +0300
+
+    don't use 1.7 controllers lifecycle
+
+[33mcommit 06fcce2decdf69808619d25b1d55ad6fdf0bda14[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Thu May 7 13:04:44 2020 +0300
+
+    Minor fixes
+    
+    * take into account the gift wrapping price
+    * ignore gift products in history
+    * change order gift status if gift item was deleted
+    * improvements for controllers
+    * improvements for history logging
+    * only use shutdown handler when critical error appears
+
+[33mcommit 9b2a8e158589ce856349c573e255dcc1af2f901b[m[33m ([m[1;33mtag: v3.0.6[m[33m)[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Thu Apr 30 14:41:09 2020 +0300
+
+    Better cli interface
+    
+    * [Feature] --reset-all command can be used to reset entire job subsystem.
+    * [Feature] Add export event to cli jobs.
+    * [Improvement] CLI component can handle more types of errors now.
+    * [Improvement] Shutdown handler for resetting execution locks.
+    * [UX] Added warning notice to the CLI help.
+    * [Fix] Suppress undefined index notice.
+    * [Fix] Added export job into CLI jobs list.
+
+[33mcommit 40a0185fa37c7aaed8e8b28f26882640b44c3a21[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Mon Apr 27 13:03:54 2020 +0300
+
+    remove useless zip
+
+[33mcommit 257b4a0c0f5d967aff833f16c723e6d8cb61ca28[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Fri Apr 24 13:49:14 2020 +0300
+
+    fixes for validator
+
+[33mcommit 1be638a970fa0cb41b0c42ee9627407d7e77823a[m[33m ([m[1;33mtag: v3.0.5[m[33m)[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Thu Apr 23 15:49:29 2020 +0300
+
+    proper cron & cli support, separated logs for different execution contexts (#65)
+    
+    * proper cron & cli support, separated logs for separate execution contexts
+    * different job-scope locks for cli and manager
+    * proper signal handling pass
+    * add proper cli path
+    * trick prestashop into thinking that we're calling getProducts from back office
+    * create order on edit if it's not present in retailCRM
+    * prevent discount to be higher than total
+    * fix for striped logging
+
+[33mcommit d4f9e0b762502d9d42b32f4645fbbd0f8c03116d[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Thu Apr 23 15:42:39 2020 +0300
+
+    prevent discount to be higher than total
+
+[33mcommit 5108111654eb3b5855734a1eab01d47133619a70[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Thu Apr 23 15:41:11 2020 +0300
+
+    create order on edit if it's not present in retailCRM
+
+[33mcommit 36a9c12bf85777b70a6bef7e522ff27f5aee0771[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Thu Apr 23 15:38:48 2020 +0300
+
+    trick prestashop into thinking that we're calling getProducts from back office
+
+[33mcommit bfa41b7d149c101c73e14c35470a25f7cbcd4f05[m[33m ([m[1;33mtag: v3.0.4[m[33m)[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Mon Apr 20 15:29:38 2020 +0300
+
+    Fix icml category generation
+
+[33mcommit 302c6dd18cdb0b45912c484c3ecdc16bb0cb087c[m[33m ([m[1;33mtag: v3.0.3[m[33m)[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Thu Apr 16 18:18:08 2020 +0300
+
+    Fix updater for old clients
+    
+    * fixed problem with updater error
+    * preserve last run remove status
+
+[33mcommit 006bd960e315b08f7c09e3254adf6fc31b17f992[m[33m ([m[1;33mtag: v3.0.2[m[33m)[m
+Author: Neur0toxine <pashok9825@gmail.com>
+Date:   Thu Apr 16 15:26:03 2020 +0300
+
+    V3 major update
+    
+    * New design
+    * Corporate clients
+    * Online consultant
+    * Job manager (cron replacement)
+    * Improved compatibility with 1.6
+    * Possibility to toggle inventory & history uploads
+    * Better error logging
+    * Abandoned carts improvements
+    * Drop inactive category branch from ICML generation
+
+[33mcommit 8bd474846dac7775dee7438077d9c3a738e23240[m[33m ([m[1;33mtag: v2.5.1[m[33m)[m
+Merge: 6f55973 6006563
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Tue Apr 14 12:25:59 2020 +0300
+
+    Fix discount rounding
+
+[33mcommit 60065630708f72e1748cb67bb459441c00b1c713[m
+Author: Павел <pashok9825@gmail.com>
+Date:   Tue Apr 14 11:55:06 2020 +0300
+
+    bump version
+
+[33mcommit fac7d3706b670f6130655eef2e24ed35ea2d5583[m
+Author: Павел <pashok9825@gmail.com>
+Date:   Tue Apr 14 11:49:30 2020 +0300
+
+    fix discount rounding
+
+[33mcommit 6f55973ac7e089d149dcfe7419fc46209b3f3454[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Thu Mar 5 12:14:15 2020 +0300
+
+    Update README.md
+
+[33mcommit c9dc7acc6dd68ac68ec104ffc471e2b71bb51b8f[m
+Merge: d58e111 de10b75
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Thu Mar 5 12:13:30 2020 +0300
+
+    Merge pull request #58 from iyzoer/master
+    
+    Travis build matrix
+
+[33mcommit de10b753794e22b734ed9b5c00b16d2be056d67e[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Thu Mar 5 10:41:50 2020 +0300
+
+    update deploy
+
+[33mcommit 91341084d5e37076261ec6f07dfa1f7209b8f2b8[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Thu Mar 5 09:43:41 2020 +0300
+
+    fix matrix
+
+[33mcommit 77ecd15b45ab8ba55260f185fc00a5640117e67b[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 23:55:28 2020 +0300
+
+    update matrix
+
+[33mcommit 7b7719e5806ce20ed71b21798acc825f9c2fe511[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 23:37:17 2020 +0300
+
+    fix require path
+
+[33mcommit 243b170fa7708bc7d7784895095a561084a78a34[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 23:30:02 2020 +0300
+
+    test
+
+[33mcommit 7daa69fc176d7ddfb5af2e37a2bdc0a0ff3b5223[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 23:16:19 2020 +0300
+
+    test
+
+[33mcommit a489fe2f5844cf994001887da5eeb44854f10263[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 22:58:57 2020 +0300
+
+    test
+
+[33mcommit e036afd7aa3bdbc69a62f62828db60243c238ef3[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 18:04:06 2020 +0300
+
+    update Makefile
+
+[33mcommit 4a468344f9a0bb0b4239c0dff706cdce9b8b31a6[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 17:59:20 2020 +0300
+
+    update phpunit config
+
+[33mcommit b15be0d7dddc61546469b1c5a5ae5603eda70da4[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 17:33:28 2020 +0300
+
+    update phpunit config
+
+[33mcommit e3ec1b05180db2820708f6db26851b0c3f185765[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 17:08:43 2020 +0300
+
+    delete phpunit dir
+
+[33mcommit c2ceac1a4a7341257d4544f6f33a34b48e23b3eb[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 17:01:50 2020 +0300
+
+    update matrix
+
+[33mcommit 596d6f0b76cb7b45a004d23e1f108994401fe185[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 12:26:14 2020 +0300
+
+    alias for legacy tests
+
+[33mcommit 4d94b95b9e18b427e87c7b0c9bfadcc5ddb77eab[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 12:16:05 2020 +0300
+
+    update travis config
+
+[33mcommit f4c8000c8df0a07ac1edcbc721fa241c934e84f0[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 12:09:24 2020 +0300
+
+    update travis config
+
+[33mcommit 8eb5e83b11f61cdc67642eeb1214a25e1f1d58c7[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 11:52:15 2020 +0300
+
+    update travis config
+
+[33mcommit 9fe976d13c07f40080968abc9b42ebf0362a1f67[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 10:21:20 2020 +0300
+
+    update Makefile
+
+[33mcommit 38ffafbbc0d00c19fbcdefac33cd482fc2288a61[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 10:03:38 2020 +0300
+
+    update branch version
+
+[33mcommit c3ead8a93cde42bb9422d02e93849e2682b99656[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 09:56:48 2020 +0300
+
+    update branch version
+
+[33mcommit 88f161fdc4416fa657976d20f8e927646b41a3d6[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 09:48:30 2020 +0300
+
+    update Makefile
+
+[33mcommit 97b89357641f2bad86028e98c960a550ba1bcc3d[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Mar 4 09:42:59 2020 +0300
+
+    update Makefile
+
+[33mcommit 5be30f29885323bf1bb7b009b7280e3703fb03a4[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Tue Mar 3 18:12:53 2020 +0300
+
+    update Makefile
+
+[33mcommit 853b3d46ed034fe962c13d1139d93eccf338e48d[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Tue Mar 3 18:02:52 2020 +0300
+
+    update Makefile
+
+[33mcommit f62cc5053a753bfb36c43903715cf3b9c9393855[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Tue Mar 3 17:56:13 2020 +0300
+
+    update Makefile
+
+[33mcommit 9496591e8b9dd27c013f5234cdd33e09263137f2[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Tue Mar 3 17:52:13 2020 +0300
+
+    update travis config
+
+[33mcommit 24ea74e21c942e9e21156aa2aa6182ba5b4a0e80[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Tue Mar 3 17:50:26 2020 +0300
+
+    update Makefile
+
+[33mcommit d58e11119fcc48b05b9b3237d299227e81baa40a[m[33m ([m[1;33mtag: v2.5.0[m[33m)[m
+Merge: f6f8d13 665840f
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Tue Oct 29 11:15:03 2019 +0300
+
+    Merge pull request #52 from Neur0toxine/master
+    
+    bump version
+
+[33mcommit 665840fac74e9bc138d328e1460666d113cbebc2[m
+Author: Pavel <pashok9825@gmail.com>
+Date:   Tue Oct 29 10:56:13 2019 +0300
+
+    bump version
+
+[33mcommit f6f8d1302bdaedebe228cd726376f3e7a9bf8da3[m
+Merge: 5ca6882 4407d2e
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Tue Oct 29 10:54:39 2019 +0300
+
+    Merge pull request #51 from Neur0toxine/master
+    
+    [feature] send abandoned carts to retailCRM as orders
+
+[33mcommit 4407d2e55c3c8309cefab2c285880abdb7882125[m
+Author: Pavel <pashok9825@gmail.com>
+Date:   Tue Oct 29 10:53:48 2019 +0300
+
+    ignore minified assets for now
+
+[33mcommit 42e03ece81c383e10095fdb221eb0a069a31d71b[m
+Author: Pavel <pashok9825@gmail.com>
+Date:   Tue Oct 29 10:36:24 2019 +0300
+
+    bump version
+
+[33mcommit 1edd12bc8082ac3c6aeb97a854cc28b182d870a7[m
+Author: Pavel <pashok9825@gmail.com>
+Date:   Tue Oct 29 09:42:34 2019 +0300
+
+    abandoned carts upload timeout & JobManager rework
+
+[33mcommit a4473d488dbb300032ee7e3cbff65f643e1505f7[m
+Author: Pavel <pashok9825@gmail.com>
+Date:   Fri Oct 25 10:49:42 2019 +0300
+
+    JobManager fix
+
+[33mcommit 1e20ca316adb415337ea31cf72e7df96e8022bfd[m
+Author: Pavel <pashok9825@gmail.com>
+Date:   Fri Oct 25 10:09:48 2019 +0300
+
+    run job every hour instead of 10 seconds
+
+[33mcommit ec34a62f9f04c13115d902516a2c2828c5140f22[m
+Author: Pavel <pashok9825@gmail.com>
+Date:   Wed Oct 23 17:52:23 2019 +0300
+
+    [feature] send abandoned carts to retailCRM as orders
+
+[33mcommit 5ca68822e790c88e934713fe194ee5f4a084ba05[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Thu Oct 17 13:53:47 2019 +0300
+
+    Update .travis.yml
+
+[33mcommit 1d3a2e34d9ece7e811c033efa97db00c1b9b47a0[m[33m ([m[1;33mtag: v2.4.0[m[33m)[m
+Merge: 63e9278 ecfb5f1
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Thu Oct 17 12:50:36 2019 +0300
+
+    Merge pull request #50 from Evgeniy-Goroh/master
+    
+    Поддержка передачи одинаковых товаров в заказе как разных товарных по…
+
+[33mcommit ecfb5f192ec59e83033256a62fe1728f108ea30c[m
+Author: gorokh <gorokh@retailcrm.ru>
+Date:   Mon Oct 14 10:20:16 2019 +0300
+
+    fix
+
+[33mcommit fd3914caf993d4822bbb758979cef60f2604fceb[m
+Author: gorokh <gorokh@retailcrm.ru>
+Date:   Thu Oct 3 17:57:07 2019 +0300
+
+    fix dublicate items
+
+[33mcommit 660904b885b7257dc66df37fac495325030be69e[m
+Author: gorokh <gorokh@retailcrm.ru>
+Date:   Fri Sep 6 13:07:37 2019 +0300
+
+    Поддержка передачи одинаковых товаров в заказе как разных товарных позиций
+
+[33mcommit 63e92785cf9f530490fad212925cda6f347ee2fa[m[33m ([m[1;33mtag: v2.3.3[m[33m)[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Fri Aug 23 11:05:52 2019 +0300
+
+    Update VERSION
+
+[33mcommit 443ce09dd8c9c05ec7cb2c84ef6db5ea435b7dbe[m
+Merge: 5f64051 d56065a
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Fri Aug 23 11:05:38 2019 +0300
+
+    Merge pull request #49 from Frosin/master
+    
+    fixed offer's article, prices display in catalog
+
+[33mcommit 5f64051fe605665816e7af5c57754dc082944993[m
+Merge: ac711b3 db8c0dd
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Fri Aug 23 11:05:24 2019 +0300
+
+    Merge pull request #48 from KMityai/master
+    
+    fixed updating order
+
+[33mcommit d56065a1af53560feba3dbd3cbe1b78af349d172[m
+Author: Frosin <kfranchuk@kfranchuk>
+Date:   Wed Aug 21 15:02:23 2019 +0300
+
+    fixed offer'ss article, prices display in catalog
+
+[33mcommit db8c0dde1709848b0a90b9a5210102d6e2ccf2e9[m
+Author: Круглов Дмитрий <dkruglov@retailcrm.ru>
+Date:   Wed Jul 31 16:48:44 2019 +0300
+
+    fixed updating order
+
+[33mcommit ac711b3de3e0d2a8f80b259d7cc92d21b7e73a13[m[33m ([m[1;33mtag: v2.3.2[m[33m)[m
+Merge: 4db4703 9174aa1
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Thu Jul 18 15:06:40 2019 +0300
+
+    Merge pull request #47 from iyzoer/master
+    
+    Fix tests
+
+[33mcommit 9174aa121cb130f178fd3d06ca44ca727fa90bbc[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Thu Jul 18 14:43:23 2019 +0300
+
+    Update .travis.yml
+
+[33mcommit 2011847b92fd5d3d4aae02fffe351903c591f4bb[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Thu Jul 18 14:31:35 2019 +0300
+
+    Apache settings
+
+[33mcommit e5c329e898a77f8382f6d7ea365d5026d6af9b73[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Thu Jul 18 14:17:01 2019 +0300
+
+    Fix travis tests
+
+[33mcommit 4db4703141dd40c49bb636ac70a29d39a53adce3[m
+Merge: d2b3299 9100c25
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Thu Jul 18 12:59:34 2019 +0300
+
+    Merge pull request #46 from Evgeniy-Goroh/master
+    
+    added use VAT inclusion settings in price product
+
+[33mcommit d2b3299329105c5110022ad1a56d7ac2f6e3892a[m
+Merge: 1400687 9ff3f10
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Thu Jul 18 12:59:13 2019 +0300
+
+    Merge pull request #45 from Frosin/master
+    
+    fixed incorrect response processing bug in RetailcrmHistory
+
+[33mcommit 9100c25ce2454792d088034d4be9369c09fccc42[m
+Author: gorokh <gorokh@retailcrm.ru>
+Date:   Thu Jul 18 12:13:32 2019 +0300
+
+    fix travis
+
+[33mcommit 30d7b1fac410a10f9be9a5baaf213656e6b124c5[m
+Author: gorokh <gorokh@retailcrm.ru>
+Date:   Mon Jul 15 15:48:20 2019 +0300
+
+    added use VAT inclusion settings in price product
+
+[33mcommit 9ff3f10866288d031801618aa4c7b3579072aa71[m
+Author: Frosin <kfranchuk@kfranchuk>
+Date:   Thu Jul 4 09:43:59 2019 +0300
+
+    fixed incorrect response processing bug in RetailcrmHistory
+
+[33mcommit 14006878146c6978cf6b3b05edce9a0253219c3c[m[33m ([m[1;33mtag: v2.3.1[m[33m)[m
+Merge: 3dcc75c ef4a4a1
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Mon Jul 1 11:40:06 2019 +0300
+
+    Merge pull request #43 from Neur0toxine/master
+    
+    Fixed several errors in order generation
+
+[33mcommit ef4a4a15a95dc89f0415278b2384b0fdb6e17ba4[m
+Author: Pavel <pashok9825@gmail.com>
+Date:   Tue Jun 18 11:54:05 2019 +0300
+
+    Fixed several errors in order generation
+
+[33mcommit 3dcc75cb36efe1ae9ff4b79078328f2f16718288[m[33m ([m[1;33mtag: v2.3.0[m[33m)[m
+Merge: ab81ffe 416f9f2
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu May 30 14:38:29 2019 +0300
+
+    Merge pull request #42 from Neur0toxine/master
+    
+    v2.3.0
+
+[33mcommit 416f9f2329b030eab0df8281022bafbe15e1f3f9[m
+Author: Pavel <pashok9825@gmail.com>
+Date:   Tue May 28 11:37:29 2019 +0300
+
+    [feature] Manual orders upload
+
+[33mcommit ab81ffe279944d2e26e1b52f3f4f6d1dbd1f2262[m[33m ([m[1;33mtag: v2.2.11[m[33m)[m
+Merge: 72edb27 0cea41e
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Feb 13 17:31:49 2019 +0300
+
+    Merge pull request #41 from sergeygw1990/master
+    
+    v2.2.11
+
+[33mcommit 0cea41e48f8d07fa3668de04f025c9a8de68c97a[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Wed Feb 13 10:16:49 2019 +0300
+
+    v2.2.11
+
+[33mcommit 72edb2767ada38d5aa6fe995ddb44fec5434b7be[m[33m ([m[1;33mtag: v2.2.10[m[33m)[m
+Merge: dea4a2a 2485e0e
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Fri Jan 25 15:37:03 2019 +0300
+
+    Merge pull request #40 from sergeygw1990/master
+    
+    v2.2.10
+
+[33mcommit 2485e0ec499360291d177f56c93d19b41faf3d59[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Fri Jan 25 09:54:58 2019 +0300
+
+    правка CHANGELOG
+
+[33mcommit 8d4ae3bb8fae51f07eab705898095fef9752aeb1[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Thu Jan 24 18:18:39 2019 +0300
+
+    Исправление передачи цены доставки
+
+[33mcommit dea4a2a51b7dccaa405e9c5ef6a4f895d3392dbb[m[33m ([m[1;33mtag: v2.2.9[m[33m)[m
+Merge: 5920424 7a44a96
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Jan 23 13:41:15 2019 +0300
+
+    Merge pull request #39 from iyzoer/master
+    
+    v2.2.9
+
+[33mcommit 7a44a9616379839a89859eb2004112986734dd59[m
+Merge: 3050ba7 e13ddff
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Tue Jan 22 10:18:48 2019 +0300
+
+    Merge branch 'master' of github.com:iyzoer/prestashop-module
+
+[33mcommit 3050ba7978f3de05ce82926a771ef4dc4efa57ce[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Tue Jan 22 10:12:42 2019 +0300
+
+    Добавлены переводы
+
+[33mcommit 8e88456b44afde599991a0edc166c2a41e14f7df[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Fri Jan 18 17:04:32 2019 +0300
+
+    Добавлен Daemon Collector
+
+[33mcommit a1fc009db6a3a5e06804fe7c680a996e6d36ec5d[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Wed Oct 24 16:34:14 2018 +0300
+
+    v2.2.5
+
+[33mcommit 54d4091f63d628bdf973f92fc8d5dffa3fc2e4c7[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Wed Oct 24 16:15:28 2018 +0300
+
+    v2.2.5
+
+[33mcommit b92579e515204794a7bcb6197dd41804bfe36552[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Mon Jan 21 16:50:46 2019 +0300
+
+    v2.2.9
+
+[33mcommit b64bb2599cf01ef356fe29388ff0797c73bf8752[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Mon Jan 21 14:42:19 2019 +0300
+
+    v2.2.9
+
+[33mcommit e13ddff1b5fd667fe68383b7bb5a22a3905a3cb7[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Fri Jan 18 17:04:32 2019 +0300
+
+    Добавлен Daemon Collector
+
+[33mcommit f520e7b181586d354d2fc61b19bd712f675da14b[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Fri Jan 18 16:24:10 2019 +0300
+
+    v2.2.9
+
+[33mcommit 058f007b366ccd4ba8f41bf3a4b7317373bcd2bc[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Fri Jan 18 15:56:22 2019 +0300
+
+    v2.2.9
+
+[33mcommit d6053cc9fe892de985b3a100bd1668703c91cdef[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Wed Oct 24 16:34:14 2018 +0300
+
+    v2.2.5
+
+[33mcommit 3e47ce29b470c2216623a55d19f57ce1d88777e7[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Wed Oct 24 16:15:28 2018 +0300
+
+    v2.2.5
+
+[33mcommit 4dfc7b8d1acbf9bdc33ac6484f0d7f4171e774d6[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Wed Jan 16 13:11:34 2019 +0300
+
+    v2.2.9
+
+[33mcommit 5920424ad3814b734a01819559a75f85fc9ac3a9[m[33m ([m[1;33mtag: v2.2.8[m[33m)[m
+Merge: 2ce4158 e5bd5f6
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Tue Dec 25 14:18:19 2018 +0300
+
+    Merge pull request #38 from iyzoer/master
+    
+    v2.2.8
+
+[33mcommit e5bd5f6adc4b55d37e4dc4899750f58d7d39725e[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Tue Dec 25 13:31:07 2018 +0300
+
+    v2.2.8
+
+[33mcommit 2ce4158c02eeca4ffd1dc8041943487bc12ea241[m[33m ([m[1;33mtag: v2.2.7[m[33m)[m
+Merge: 8f2cb8c 7b89c40
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu Nov 1 15:36:08 2018 +0300
+
+    Merge pull request #37 from sergeygw1990/master
+    
+    v2.2.7
+
+[33mcommit 7b89c4084c51860ff86d183694472dc2d13e4d66[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Tue Oct 30 17:15:48 2018 +0300
+
+    v2.2.7
+
+[33mcommit 3f0abdc4095f672838e5cb7c9902bc0fcb5826cd[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Tue Oct 30 17:07:14 2018 +0300
+
+    v2.2.7
+
+[33mcommit 8f2cb8c1b2a11b19db140bd8522898ae92e3e545[m
+Merge: 2a5accd 1b07923
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu Oct 25 13:39:35 2018 +0300
+
+    Merge pull request #36 from iyzoer/master
+    
+    Bug fix
+
+[33mcommit 1b07923f6b14d8f8123aaeedb0002062ade58af0[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Thu Oct 25 13:37:56 2018 +0300
+
+    Bug fix
+
+[33mcommit 2a5accdeefb677b028a230392a0940242d817a5f[m[33m ([m[1;33mtag: v2.2.6[m[33m)[m
+Merge: c28720c f61d14d
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu Oct 25 12:26:31 2018 +0300
+
+    Merge pull request #35 from iyzoer/master
+    
+    v2.2.6
+
+[33mcommit f61d14d97dabd64d9ebb6301f41f2a2629da8872[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Thu Oct 25 12:20:52 2018 +0300
+
+    v2.2.6
+
+[33mcommit d8202ead1d3c0f60c0f55e7b40f864b65cd14978[m
+Merge: c28720c 83360e4
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Thu Oct 25 12:16:48 2018 +0300
+
+    Merge
+
+[33mcommit c28720c961d203366e7fcd27a1c9adf2ef3b4a2b[m[33m ([m[1;33mtag: v2.2.5[m[33m)[m
+Merge: fc76adb a8cbda7
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu Oct 25 10:38:47 2018 +0300
+
+    Merge pull request #34 from sergeygw1990/master
+    
+    v2.2.5
+
+[33mcommit a8cbda785e6f0f731aab7fd4a14312b8205cbfb0[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Wed Oct 24 17:15:55 2018 +0300
+
+    v2.2.5
+
+[33mcommit 83360e4c6929c2861932d294e7e21fb7e21245f6[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Oct 24 16:35:07 2018 +0300
+
+    Fix for marketplace
+
+[33mcommit fc76adb9447c64b751b6b1649b0331bb6cbc8fa9[m[33m ([m[1;33mtag: v2.2.4[m[33m)[m
+Merge: ee5067f 8a6baf8
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Mon Oct 8 11:09:24 2018 +0300
+
+    Merge pull request #33 from iyzoer/master
+    
+    v2.2.4
+
+[33mcommit 8a6baf8f9acd9fe2d95553c22e08b23b081372b9[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Mon Oct 8 09:23:08 2018 +0300
+
+    History fix for PrestaShop 1.7
+
+[33mcommit 270b69707d2aa859675c0494d535bac940efdff8[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Fri Oct 5 17:50:20 2018 +0300
+
+    Catalog and history tests
+
+[33mcommit 6e6177fc71671e166ff6af571ac492f96439fbb3[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Fri Oct 5 15:24:47 2018 +0300
+
+    v2.2.4
+
+[33mcommit ee5067f6897c83ec509c630fcc22c199abc595a0[m[33m ([m[1;33mtag: v2.2.3[m[33m)[m
+Merge: bac48ac 49fd0d3
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu Oct 4 12:53:44 2018 +0300
+
+    Merge pull request #32 from sergeygw1990/master
+    
+    v2.2.3
+
+[33mcommit 49fd0d35539849c7755df70f3693569c2c8a1e4d[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Wed Oct 3 17:09:02 2018 +0300
+
+    v2.2.3
+
+[33mcommit bac48ac93315c8ffd2e0bdaef5ef616ee2622af2[m[33m ([m[1;33mtag: v2.2.2[m[33m)[m
+Merge: 05f0fde 91ee684
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Mon Sep 3 16:49:01 2018 +0300
+
+    Merge pull request #30 from iyzoer/master
+    
+    v2.2.2
+
+[33mcommit 91ee6844f555a43750492bd5828ff123aa10ed73[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Mon Sep 3 16:22:56 2018 +0300
+
+    Update version
+
+[33mcommit 59190039eed83ff33f2036e1a95e1d3335a3038e[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Fri Aug 31 12:22:20 2018 +0300
+
+    Replased SQL requests on object model
+
+[33mcommit 12b133eaff9f7fef8cde5b016f118e7e83a61601[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Mon Sep 3 16:15:30 2018 +0300
+
+    Send module configuration in marketplace CRM
+
+[33mcommit ce309ff4b52259ab678d2f4b8213f1a699a0fd7a[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Fri Aug 31 13:40:16 2018 +0300
+
+    v2.2.2
+
+[33mcommit 3767445f6871cfe5adc79ed9736d74069796ec9a[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Fri Aug 31 12:22:20 2018 +0300
+
+    Replased SQL requests on object model
+
+[33mcommit 3c4bb541e78ae724369a2f1bc998f3af2579c272[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Thu Aug 30 15:22:32 2018 +0300
+
+    v2.2.2
+
+[33mcommit da10ce3421fecd4119113213892b46c52e4cc92b[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Thu Aug 30 12:24:13 2018 +0300
+
+    v2.2.2
+
+[33mcommit b8c77e8604e79c34250013072f8e616094ba6447[m
+Author: Sergey <gluschenko@retailcrm.ru>
+Date:   Thu Aug 30 11:37:18 2018 +0300
+
+    v2.2.2
+
+[33mcommit 05f0fde9d9ac82e9cc7293c4f8c0db6dbaaf44ce[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Mon Jun 18 14:00:16 2018 +0300
+
+    Update README.md
+
+[33mcommit 6daec74f6a434fd2ca8c38406f02a889518b1079[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu Jun 14 14:26:11 2018 +0300
+
+    Update Makefile
+
+[33mcommit 942ec75b081f5d0d38a822b22a4ff79770d19109[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu Jun 14 13:15:12 2018 +0300
+
+    Update Makefile
+
+[33mcommit 4fa80eb475ec19a4f52413cca2c5a8c15bb54e94[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu Jun 14 12:51:58 2018 +0300
+
+    Update README.ru.md
+
+[33mcommit 60599da154c5dce43a9059f106a80d77c4a3b1a1[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu Jun 14 12:50:26 2018 +0300
+
+    Update README.md
+
+[33mcommit 13758355d29a338f48ffde4cd0d3ce1cc12c4c6b[m
+Merge: f18d50a 72913de
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu May 31 16:29:39 2018 +0300
+
+    Merge pull request #29 from iyzoer/master
+    
+    Travis tests
+
+[33mcommit 72913dee21e540c84d4627a05434721832752f61[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed May 30 11:22:53 2018 +0300
+
+    Update call prestashop install script
+
+[33mcommit 5fa0d18692ea48b3b1947636beb99e8b0e84a127[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed May 30 10:30:06 2018 +0300
+
+    Update script for travis
+
+[33mcommit f2943d6f08fe58fd740f4441a599c41042201319[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed May 30 10:14:25 2018 +0300
+
+    Update before script
+
+[33mcommit ad60c20cf9315dcf7465166e896be9b81b0d9443[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed May 30 09:58:53 2018 +0300
+
+    Update travis config for run tests
+
+[33mcommit c0fbb05e4fc04a23766a7a453c02522b2b36bb81[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Tue May 29 13:22:49 2018 +0300
+
+    Edit travis config
+
+[33mcommit d1db728a7b401651120eeb9a0d65b4c9b33993cb[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Tue May 29 13:15:18 2018 +0300
+
+    Update .travis.yml and bash scripts
+
+[33mcommit 8f99d5514471e80403d33a23bfbb6391a50453d6[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Mon May 28 17:09:31 2018 +0300
+
+    Travis tests
+
+[33mcommit 6c0993cd0393908052a7168eb4b749c29e56fe94[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Wed Feb 28 15:55:07 2018 +0300
+
+    Customers history, fix attribute value
+
+[33mcommit 575c9f55c19738d6d117f4a86aa7bb07c91a5bb8[m
+Author: Akolzin Dmitry <akolzinvs@gmail.com>
+Date:   Thu Sep 21 10:19:43 2017 +0300
+
+    Bug fix
+
+[33mcommit 54a476eed0cbb0673dda235e45f2f9dfad308c3d[m
+Author: iyzoer <akolzinvs@gmail.com>
+Date:   Fri Sep 1 10:10:46 2017 +0300
+
+    fix for validation on marketplace, edit validation form for saving settings
+
+[33mcommit 9d40ea19529036cd112219d27dc4c79753ebe259[m
+Author: iyzoer <akolzinvs@gmail.com>
+Date:   Mon Aug 14 11:47:22 2017 +0300
+
+    multi module for api v4, v5
+
+[33mcommit f18d50aac12e69950f47623ff3628b1d8016c8ce[m
+Author: Akolzin Dmitry <iyzoer@users.noreply.github.com>
+Date:   Wed Feb 28 17:28:13 2018 +0300
+
+     Customers history, fix attribute value  (#28)
+
+[33mcommit 30e53fa5c69fc3f6f33f2881bf5311611c006206[m
+Author: Dmitry Mamontov <d.slonyara@gmail.com>
+Date:   Fri Jan 12 14:05:04 2018 +0300
+
+    Add customer comment (#26)
+
+[33mcommit 3d3d55a9d1e523db44126a2fe9c2e314e529bba3[m[33m ([m[1;33mtag: v2.1.1[m[33m)[m
+Author: Akolzin Dmitry <iyzoer@users.noreply.github.com>
+Date:   Fri Jan 12 12:51:46 2018 +0300
+
+     Bug fixes in customer search  (#27)
+    
+    * multi module for api v4, v5
+    
+    * bug fix empty payment in history
+    
+    * add module key for marketplace
+    
+    * fix for validation on marketplace, edit validation form for saving settings
+    
+    * Bug fix
+    
+    * Bug fixes in customer search
+
+[33mcommit 87a6c6ee344b6c6435a1b64e8b4fd43685643938[m
+Author: Akolzin Dmitry <iyzoer@users.noreply.github.com>
+Date:   Wed Sep 27 14:38:24 2017 +0200
+
+    Settings default status in export (#25)
+
+[33mcommit 8b1c9ec5deb650313edd4484aedbc2c6ca0404cb[m
+Author: Akolzin Dmitry <iyzoer@users.noreply.github.com>
+Date:   Wed Sep 27 11:54:20 2017 +0200
+
+    Bug fix (#22)
+
+[33mcommit 61f5b369defd74ea86d10fb12047cb188cd2553d[m
+Author: Akolzin Dmitry <iyzoer@users.noreply.github.com>
+Date:   Wed Sep 13 17:30:38 2017 +0300
+
+    History fix (#21)
+
+[33mcommit 7756dc103a124f1e1279e418b51bcd8ab027b37f[m
+Author: Akolzin Dmitry <iyzoer@users.noreply.github.com>
+Date:   Fri Sep 8 12:56:18 2017 +0300
+
+    Fix RetailcrmApiClientV5 (#20)
+
+[33mcommit f0582b9938c057950924fe98ee4a0323add012d9[m
+Author: Akolzin Dmitry <iyzoer@users.noreply.github.com>
+Date:   Fri Sep 1 10:14:13 2017 +0200
+
+    Bug fix empty payment in history (#19)
+
+[33mcommit 77298a48a2f534fb0700e7b1c2d26c72372d0053[m
+Author: Akolzin Dmitry <iyzoer@users.noreply.github.com>
+Date:   Wed Aug 16 14:17:46 2017 +0200
+
+    Fix check api version (#18)
+
+[33mcommit b9f557277ccf070fdc0a4f4edbd1277133134a79[m[33m ([m[1;33mtag: v2.1.0[m[33m)[m
+Author: Akolzin Dmitry <iyzoer@users.noreply.github.com>
+Date:   Mon Aug 14 12:06:10 2017 +0200
+
+    Multi module (#17)
+    
+    * multi module for api v4, v5
+    * bug fix install module
+
+[33mcommit ee33a5fb40dcd798aed92e80ba544d91513f9881[m
+Author: DmitryZagorulko <IntensoDZ@yandex.ru>
+Date:   Wed Aug 9 12:03:12 2017 +0300
+
+    correct generate icml (#16)
+
+[33mcommit 9bbe23195c07b91f839f7b4543a96c6761d7d4af[m
+Author: DmitryZagorulko <IntensoDZ@yandex.ru>
+Date:   Fri Jun 16 16:13:25 2017 +0300
+
+    correct export and set lang rule (#15)
+
+[33mcommit 226e88966be9286f6bd7be3156c39e98f921def1[m
+Author: DmitryZagorulko <IntensoDZ@yandex.ru>
+Date:   Wed May 31 14:23:18 2017 +0300
+
+    bug fixes (#14)
+
+[33mcommit b6f010f2fc877988a415c4bf521be79affa8b110[m
+Author: DmitryZagorulko <IntensoDZ@yandex.ru>
+Date:   Wed May 24 18:22:19 2017 +0400
+
+    transfer status and bug fixes (#13)
+
+[33mcommit 04a084f94fd8a851839239a7c3de0fa4feac7cb7[m
+Author: DmitryZagorulko <IntensoDZ@yandex.ru>
+Date:   Mon May 22 21:13:18 2017 +0400
+
+    bug fixes (#12)
+
+[33mcommit cf9cc2974b50eb458d701e030e70236fc0c3961e[m
+Author: DmitryZagorulko <IntensoDZ@yandex.ru>
+Date:   Fri May 12 19:02:59 2017 +0400
+
+    bug fixes (#11)
+
+[33mcommit f6b26353a0357e418c653a57d363a1bc44a43b36[m
+Author: DmitryZagorulko <IntensoDZ@yandex.ru>
+Date:   Fri May 5 17:31:51 2017 +0400
+
+    add update user and order, bug fixes (#10)
+
+[33mcommit 2c4f8524a659d9fa6da5019e5ded56b2e5dacc9b[m[33m ([m[1;33mtag: v2.0.5[m[33m)[m
+Author: DmitryZagorulko <IntensoDZ@yandex.ru>
+Date:   Tue Apr 25 13:23:40 2017 +0300
+
+    add tax rules in sync, bug fixes (#9)
+    
+    * correct transfer discount
+    * correct delete items and discount
+    * add tax rules in sync, bug fixes
+
+[33mcommit 1ca1f31abc7e5f80d3c59e4b3d5d046b8bd03f4e[m
+Author: DmitryZagorulko <IntensoDZ@yandex.ru>
+Date:   Wed Apr 5 17:56:26 2017 +0300
+
+    bug fixes and other changes (#8)
+    
+    * [productId] replace to [offer][externalId]
+    
+    * properties for items in order and in icml
+    
+    * fix
+    
+    * correct order creation
+    
+    * correct url images
+    
+    * skip orders with incorrect data
+    
+    * create order with default payment and delivery, transfer order status from cms
+    
+    * correct transfer discount
+    
+    * correct delete items and discount
+
+[33mcommit 6eed3ad0e75f56dd31fcdf3f112b41201ba1c5a1[m[33m ([m[1;33mtag: v2.0.4[m[33m)[m
+Author: DmitryZagorulko <IntensoDZ@yandex.ru>
+Date:   Tue Mar 21 12:46:37 2017 +0400
+
+    fix create orders  (#7)
+    
+    * [productId] replace to [offer][externalId]
+    * properties for items in order and in icml
+
+[33mcommit b61379cabcca44414df2386a4bfa5fdba7b4e7b6[m[33m ([m[1;33mtag: v2.0.3[m[33m)[m
+Author: azgalot <aandrewa@mail.ru>
+Date:   Tue Nov 29 14:14:25 2016 +0300
+
+    fix default order status
+
+[33mcommit 647f7b3fafe74231e5d3819888706a8f81d9b526[m[33m ([m[1;33mtag: v2.0.2[m[33m)[m
+Author: Vitaly Artemev <fleshphp@gmail.com>
+Date:   Fri Oct 21 17:12:22 2016 +0300
+
+    deleted debugging code (#5)
+
+[33mcommit 39e1684e7cd2bb92ee7b9f9822408cc545e4dbf5[m
+Author: Dmitry Korol <noonebk@yandex.ru>
+Date:   Mon Aug 29 15:59:19 2016 +0300
+
+    Update for api version 4
+    
+    * history additional functional
+    * fixed orders upload when customers data is empty and delivery data is empty
+    * orders update history
+    * product offers
+    * fix 5.3 compability
+    * retailcrm api v4
+
+[33mcommit 66e4978b45ade24b2e54ca91b9f68e0308a220eb[m
+Merge: 8af172d 98ca5ba
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Mon Mar 14 23:06:29 2016 +0300
+
+    Merge pull request #3 from gwinn/master
+    
+    readme update
+
+[33mcommit 98ca5ba855f9836ebee0c2a8cabc58d010e91698[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Mon Mar 14 23:05:20 2016 +0300
+
+    readme update
+
+[33mcommit 8af172d0057388d3b4892387d5d7d45c448fab0a[m[33m ([m[1;33mtag: v2.0.1[m[33m)[m
+Merge: 8edf8b9 7622182
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Sat Jan 16 18:04:58 2016 +0300
+
+    Merge pull request #2 from gwinn/master
+    
+    bug fixes, missing script
+
+[33mcommit 7622182b5248ddc76e85ccc698db731e196e75a1[m
+Merge: 727e997 8edf8b9
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Sat Jan 16 18:03:25 2016 +0300
+
+    merge upstream
+
+[33mcommit 727e9970b9be25dee2cf188026748856fa9c106f[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Sat Jan 16 17:55:40 2016 +0300
+
+    fix bug with empty value for delivery, payment & status, fix sync script
+
+[33mcommit 8edf8b9efaa3ff8ee7170b5164d5393d0af4730a[m[33m ([m[1;33mtag: v2.0[m[33m)[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Wed Jan 13 18:43:41 2016 +0300
+
+    v2.0
+
+[33mcommit 1107c74ab58e79969ea44b9d5717b5667b28b97f[m
+Merge: c53620f 77f3021
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Wed Jan 13 18:29:42 2016 +0300
+
+    merge dev
+
+[33mcommit 77f302172ccda1314cc3b3e36ae797307bc1268e[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Wed Jan 13 18:19:51 2016 +0300
+
+    readme update
+
+[33mcommit 47a503fbb49d8ac155ad337c8932fe177971d50b[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Wed Jan 13 18:17:35 2016 +0300
+
+    export archive script
+
+[33mcommit cc18170153ba9a06bd17f73c28206a2aa64b1c73[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Wed Jan 13 01:49:36 2016 +0300
+
+    partial fix status mapping, remove deprecated code
+
+[33mcommit fc0b1d33f99246068cb462bcdbf72e65ebe0a2c1[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Tue Jan 12 23:06:05 2016 +0300
+
+    version dependency, interface update, bug fixes
+
+[33mcommit c0ea6c2a06e3bf2bdf27a7229b268e635acc6425[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Mon Jan 11 18:02:20 2016 +0300
+
+    customer, orders & pre-alpha archive export
+
+[33mcommit 52ee86eb71bba3e217786cf9521b61d4270524a3[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Tue Oct 27 17:31:53 2015 +0300
+
+    переработка скрипта обратной интеграции
+
+[33mcommit 88fcb88deeb48d8293cebdcab117cd697863b184[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Mon Oct 26 18:09:02 2015 +0300
+
+    changelog
+
+[33mcommit 92e5e30d6d473c15782ba98b82340931c9b1afa9[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Mon Oct 26 17:53:20 2015 +0300
+
+    orders/history
+
+[33mcommit a25409571c1b90e4426f922ed311e67067de63bf[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Mon Oct 26 16:14:34 2015 +0300
+
+    добавлен учет tax_rate для формирования стоимости товара в заказе и icml, добавлена возможность выгружать в CRM пользователя по факту его регистрации в CRM, изменена структура передаваемых в CRM данных по заказу
+
+[33mcommit b891ed607fa5b46545b425641ec0a40876875470[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Fri Oct 23 17:52:20 2015 +0300
+
+    License
+
+[33mcommit 21c475b7b67ae88b4d1d8e3565efc1fcf9b278ec[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Fri Oct 23 17:50:13 2015 +0300
+
+    update doc pics
+
+[33mcommit a4cfb3f7eb20d5bf772af3a6cfc1668688ae32cf[m
+Merge: 24717dd 2ed2e20
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Fri Oct 23 17:41:25 2015 +0300
+
+    Merge branch 'dev' of github.com:gwinn/prestashop-module into dev
+
+[33mcommit 24717dd0f1228bdcc383bb4b6834ce058ad363e2[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Fri Oct 23 17:41:05 2015 +0300
+
+    new independent structure, override ability
+
+[33mcommit 2ed2e20df152cd5d57ec60ae2cf597325dfc3bd5[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu Jul 23 00:32:39 2015 +0300
+
+    Update README.md
+
+[33mcommit c72cfb649d37a4a78b3caccd0a785450c32156c3[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Tue Jul 21 15:41:30 2015 +0300
+
+    docs pics
+
+[33mcommit 22ba5c906a7edd75f955de495b0d7b9a0dd23558[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Tue Jul 21 15:21:12 2015 +0300
+
+    restruct & custom
+
+[33mcommit 956414d08aa63b8049d2b54f5a1cd2976be20e37[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Mon Jul 20 18:02:55 2015 +0300
+
+    update readme
+
+[33mcommit b35190b7e36cfd6b79525a7550d3984dc825d093[m
+Author: Alex Lushpai <lushpai@gmail.com>
+Date:   Mon Jul 20 17:59:27 2015 +0300
+
+    rebranding, api url|key emptiness error fix, icml fixes
+
+[33mcommit d323a7987a6561742915f0ae4777651861fc1dbf[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Feb 25 15:27:55 2015 +0300
+
+    Update README.md
+
+[33mcommit de498ad12902d0ebed4794dcb3f9a7228251b108[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Feb 25 15:26:08 2015 +0300
+
+    Update README.md
+
+[33mcommit c53620ff2ae72eb1297bc081adce2b5a75b55ff2[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Mon Feb 2 16:21:23 2015 +0300
+
+    Update LICENSE
+
+[33mcommit 2ba8003ad7e0075d50967975bdef3eb59841d9ee[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Mon Feb 2 16:12:02 2015 +0300
+
+    Create LICENSE
+
+[33mcommit 2113ffafc55601eb5192348ce3e4ba35558441bd[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Fri Dec 12 03:54:44 2014 +0300
+
+    Reduce memory usage for ICML generation
+
+[33mcommit 7e50f12a8335f0cbfdfffdf0d2ec9142c5b10fe4[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Fri Dec 12 03:41:05 2014 +0300
+
+    Add escape to names, remove garbage
+
+[33mcommit e05784c3b630e8f01542afb9ec18a63c1e7bd4d0[m
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Mon Jun 2 19:42:06 2014 +0400
+
+    add missed  files
+
+[33mcommit bb2ae14646f564368bd3df4d53db0200bd7c1271[m
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Mon Jun 2 18:52:26 2014 +0400
+
+    add logo
+
+[33mcommit 9e168044322747f38a80bc5a19be425348d573d5[m
+Merge: 3739c84 902794b
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Mon Jun 2 18:40:18 2014 +0400
+
+    release 0.2
+
+[33mcommit 902794b982e04d50cd81c92227731b0165441b0e[m
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Mon Jun 2 18:36:24 2014 +0400
+
+    data sync from crm to shop
+
+[33mcommit 6efbf8349279ae645339b7f51408ce075f4200c1[m
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Wed May 14 16:50:31 2014 +0400
+
+    check for advancedcheckout
+
+[33mcommit 7c3d166256df9f79819734342c879a4db2cf2448[m
+Merge: 9e01cf4 7d04406
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Tue May 13 04:51:16 2014 +0400
+
+    Merge branch 'dev' of github.com:intarocrm/prestashop-module into dev
+
+[33mcommit 9e01cf490d43cbbac5a2818db9948bf77a95676c[m
+Merge: 5eee66e 5621412
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Tue May 13 04:50:01 2014 +0400
+
+    add catalog export, payment update, few bugfixes
+
+[33mcommit 7d04406cffd32b545e4e0a33f32a2a4ebcd68c3b[m
+Merge: 5eee66e 5621412
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Tue May 13 04:50:01 2014 +0400
+
+    Merge branch 'dev' of github.com:intarocrm/prestashop-module into dev
+
+[33mcommit 5eee66e5a612a834c9c49e4263ff587b7bf76fe4[m
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Tue May 13 04:49:47 2014 +0400
+
+    add catalog export, payment update, few bugfixes
+
+[33mcommit 5621412833769a74a37ca527ad0f68a599c34fef[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Thu May 8 20:16:32 2014 +0400
+
+    Update README.md
+
+[33mcommit 7fd1bceb34c400d3035bfde9bb00e9c02927b197[m
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Thu May 8 20:11:28 2014 +0400
+
+    Confinguration sync, user & order creation
+
+[33mcommit 3739c84e0980af3ed64007bcec16e3262bf39c32[m
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Wed Apr 30 03:58:13 2014 +0400
+
+    cleanup master before first release
+
+[33mcommit 741d079a7242a508c9c494be484c4378b5f7831a[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Apr 30 03:57:06 2014 +0400
+
+    Update README.md
+
+[33mcommit 50afe01d02396acf6a44701e8fcc45ae86e3b033[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Apr 30 03:56:13 2014 +0400
+
+    Update README.md
+
+[33mcommit 43c0044ccedae872fa3b07a422999442f9b55564[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Apr 30 03:55:37 2014 +0400
+
+    Update README.md
+
+[33mcommit c4fa9b688863148b388e93ef462bdf4925d44e97[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Apr 30 03:54:50 2014 +0400
+
+    Update README.md
+
+[33mcommit 49e7e2d91368a839c9293d552ec2a6a5da083b83[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Apr 30 03:54:17 2014 +0400
+
+    Update README.md
+
+[33mcommit 344fe147bce79a0faa27a3f0f024c2beb5fd8563[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Apr 30 03:53:50 2014 +0400
+
+    Update README.md
+
+[33mcommit 39718da35d2c5b642db1643173110dc6f10ef56f[m
+Author: Alex Lushpai <gwinn@users.noreply.github.com>
+Date:   Wed Apr 30 03:53:29 2014 +0400
+
+    Update README.md
+
+[33mcommit 8b0464354707360d53d6ed0a970c7bae23697f31[m
+Author: Alex Lushpai <alex@lushpai.org>
+Date:   Wed Apr 30 03:51:52 2014 +0400
+
+    initial commit
