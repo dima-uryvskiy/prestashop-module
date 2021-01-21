@@ -75,33 +75,33 @@ jobs:
 #            branch: '1.6.1.23'
 #            phpunit-version: 'phpunit:6.4.3'
 #
-          - php-version: '5.6'
-            branch: '1.6.1.24'
-            phpunit-version: 'phpunit:5.7.23'
-          - php-version: '7.0'
-            branch: '1.6.1.24'
-            phpunit-version: 'phpunit:6.4.3'
-          - php-version: '7.1'
-            branch: '1.6.1.24'
-            phpunit-version: 'phpunit:6.4.3'
-
-          - php-version: '7.1'
-            branch: '1.7.4.0'
-            composerv1: 1
-            phpunit-version: 'phpunit:6.4.3'
-          - php-version: '7.2'
-            branch: '1.7.4.0'
-            composerv1: 1
-            phpunit-version: 'phpunit:6.4.3'
-# problems
+#          - php-version: '5.6'
+#            branch: '1.6.1.24'
+#            phpunit-version: 'phpunit:5.7.23'
+#          - php-version: '7.0'
+#            branch: '1.6.1.24'
+#            phpunit-version: 'phpunit:6.4.3'
 #          - php-version: '7.1'
-#            branch: '1.7.5.x'
+#            branch: '1.6.1.24'
+#            phpunit-version: 'phpunit:6.4.3'
+#
+#          - php-version: '7.1'
+#            branch: '1.7.4.0'
 #            composerv1: 1
 #            phpunit-version: 'phpunit:6.4.3'
 #          - php-version: '7.2'
-#            branch: '1.7.5.x'
+#            branch: '1.7.4.0'
 #            composerv1: 1
 #            phpunit-version: 'phpunit:6.4.3'
+# problems
+          - php-version: '7.1'
+            branch: '1.7.5.x'
+            composerv1: 1
+            phpunit-version: 'phpunit:6.4.3'
+          - php-version: '7.2'
+            branch: '1.7.5.x'
+            composerv1: 1
+            phpunit-version: 'phpunit:6.4.3'
 
     services:
       mysql:

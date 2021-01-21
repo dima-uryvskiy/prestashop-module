@@ -42,7 +42,7 @@ ifeq ($(COMPOSERV1),1)
 
 	cd /home/runner/work/prestashop-module/prestashop-module/../PrestaShop && sed -i 's/--db_name=prestashop/--db_name=prestashop --db_user=root --db_password=root/g' travis-scripts/install-prestashop && bash travis-scripts/install-prestashop
 else
-	cd /home/runner/work/prestashop-module/prestashop-module/../PrestaShop && sed -i 's/--db_name=prestashop/--db_name=prestashop --db_user=root --db_password=root/g' travis-scripts/install-prestashop.sh && bash travis-scripts/install-prestashop.sh
+	cd /home/runner/work/prestashop-module/prestashop-module/../PrestaShop && bash travis-scripts/install-prestashop.sh
 endif
 
 test:
