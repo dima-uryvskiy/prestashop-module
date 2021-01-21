@@ -17,7 +17,7 @@ delete_archive:
 composer: clone_prestashop
 	cd $(PRESTASHOP_DIR) && git checkout $(BRANCH)
 ifeq ($(COMPOSERV1),1)
-	cd $(PRESTASHOP_DIR) && php -r "copy('https://getcomposer.org/download/1.10.17/composer.phar', 'composer.phar');" && composer.phar require --dev friendsofphp/php-cs-fixer && php composer.phar install --prefer-dist --no-interaction --no-progress
+	cd $(PRESTASHOP_DIR) && php -r "copy('https://getcomposer.org/download/1.10.17/composer.phar', 'composer.phar');" && php composer.phar install --prefer-dist --no-interaction --no-progress
 else
 	cd $(PRESTASHOP_DIR)/tests && composer install
 endif
