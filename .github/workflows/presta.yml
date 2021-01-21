@@ -98,10 +98,10 @@ jobs:
             branch: '1.7.5.x'
             composerv1: 1
             phpunit-version: 'phpunit:6.4.3'
-          - php-version: '7.2'
-            branch: '1.7.5.x'
-            composerv1: 1
-            phpunit-version: 'phpunit:6.4.3'
+#          - php-version: '7.2'
+#            branch: '1.7.5.x'
+#            composerv1: 1
+#            phpunit-version: 'phpunit:6.4.3'
 
     services:
       mysql:
