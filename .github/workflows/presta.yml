@@ -14,83 +14,92 @@ jobs:
     strategy:
       matrix:
         include:
-          - php-version: '5.6'
-            branch: '1.6.1.18'
-            phpunit-version: 'phpunit:5.7.23'
-            coverage: 1
-          - php-version: '7.0'
-            branch: '1.6.1.18'
-            phpunit-version: 'phpunit:6.4.3'
+#          - php-version: '5.6'
+#            branch: '1.6.1.18'
+#            phpunit-version: 'phpunit:5.7.23'
+#            coverage: 1
+#          - php-version: '7.0'
+#            branch: '1.6.1.18'
+#            phpunit-version: 'phpunit:6.4.3'
+#          - php-version: '7.1'
+#            branch: '1.6.1.18'
+#            phpunit-version: 'phpunit:6.4.3'
+#
+#          - php-version: '5.6'
+#            branch: '1.6.1.19'
+#            phpunit-version: 'phpunit:5.7.23'
+#          - php-version: '7.0'
+#            branch: '1.6.1.19'
+#            phpunit-version: 'phpunit:6.4.3'
+#          - php-version: '7.1'
+#            branch: '1.6.1.19'
+#            phpunit-version: 'phpunit:6.4.3'
+#
+#          - php-version: '5.6'
+#            branch: '1.6.1.20'
+#            phpunit-version: 'phpunit:5.7.23'
+#          - php-version: '7.0'
+#            branch: '1.6.1.20'
+#            phpunit-version: 'phpunit:6.4.3'
+#          - php-version: '7.1'
+#            branch: '1.6.1.20'
+#            phpunit-version: 'phpunit:6.4.3'
+#
+#          - php-version: '5.6'
+#            branch: '1.6.1.21'
+#            phpunit-version: 'phpunit:5.7.23'
+#          - php-version: '7.0'
+#            branch: '1.6.1.21'
+#            phpunit-version: 'phpunit:6.4.3'
+#          - php-version: '7.1'
+#            branch: '1.6.1.21'
+#            phpunit-version: 'phpunit:6.4.3'
+#
+#          - php-version: '5.6'
+#            branch: '1.6.1.22'
+#            phpunit-version: 'phpunit:5.7.23'
+#          - php-version: '7.0'
+#            branch: '1.6.1.22'
+#            phpunit-version: 'phpunit:6.4.3'
+#          - php-version: '7.1'
+#            branch: '1.6.1.22'
+#            phpunit-version: 'phpunit:6.4.3'
+#
+#          - php-version: '5.6'
+#            branch: '1.6.1.23'
+#            phpunit-version: 'phpunit:5.7.23'
+#          - php-version: '7.0'
+#            branch: '1.6.1.23'
+#            phpunit-version: 'phpunit:6.4.3'
+#          - php-version: '7.1'
+#            branch: '1.6.1.23'
+#            phpunit-version: 'phpunit:6.4.3'
+#
+#          - php-version: '5.6'
+#            branch: '1.6.1.24'
+#            phpunit-version: 'phpunit:5.7.23'
+#          - php-version: '7.0'
+#            branch: '1.6.1.24'
+#            phpunit-version: 'phpunit:6.4.3'
+#          - php-version: '7.1'
+#            branch: '1.6.1.24'
+#            phpunit-version: 'phpunit:6.4.3'
+#
+#          - php-version: '7.1'
+#            branch: '1.7.4.0'
+#            composerv1: 1
+#            phpunit-version: 'phpunit:6.4.3'
+#          - php-version: '7.2'
+#            branch: '1.7.4.0'
+#            composerv1: 1
+#            phpunit-version: 'phpunit:6.4.3'
+# problems
           - php-version: '7.1'
-            branch: '1.6.1.18'
-            phpunit-version: 'phpunit:6.4.3'
-
-          - php-version: '5.6'
-            branch: '1.6.1.19'
-            phpunit-version: 'phpunit:5.7.23'
-          - php-version: '7.0'
-            branch: '1.6.1.19'
-            phpunit-version: 'phpunit:6.4.3'
-          - php-version: '7.1'
-            branch: '1.6.1.19'
-            phpunit-version: 'phpunit:6.4.3'
-
-          - php-version: '5.6'
-            branch: '1.6.1.20'
-            phpunit-version: 'phpunit:5.7.23'
-          - php-version: '7.0'
-            branch: '1.6.1.20'
-            phpunit-version: 'phpunit:6.4.3'
-          - php-version: '7.1'
-            branch: '1.6.1.20'
-            phpunit-version: 'phpunit:6.4.3'
-
-          - php-version: '5.6'
-            branch: '1.6.1.21'
-            phpunit-version: 'phpunit:5.7.23'
-          - php-version: '7.0'
-            branch: '1.6.1.21'
-            phpunit-version: 'phpunit:6.4.3'
-          - php-version: '7.1'
-            branch: '1.6.1.21'
-            phpunit-version: 'phpunit:6.4.3'
-
-          - php-version: '5.6'
-            branch: '1.6.1.22'
-            phpunit-version: 'phpunit:5.7.23'
-          - php-version: '7.0'
-            branch: '1.6.1.22'
-            phpunit-version: 'phpunit:6.4.3'
-          - php-version: '7.1'
-            branch: '1.6.1.22'
-            phpunit-version: 'phpunit:6.4.3'
-
-          - php-version: '5.6'
-            branch: '1.6.1.23'
-            phpunit-version: 'phpunit:5.7.23'
-          - php-version: '7.0'
-            branch: '1.6.1.23'
-            phpunit-version: 'phpunit:6.4.3'
-          - php-version: '7.1'
-            branch: '1.6.1.23'
-            phpunit-version: 'phpunit:6.4.3'
-
-          - php-version: '5.6'
-            branch: '1.6.1.24'
-            phpunit-version: 'phpunit:5.7.23'
-          - php-version: '7.0'
-            branch: '1.6.1.24'
-            phpunit-version: 'phpunit:6.4.3'
-          - php-version: '7.1'
-            branch: '1.6.1.24'
-            phpunit-version: 'phpunit:6.4.3'
-
-          - php-version: '7.1'
-            branch: '1.7.4.0'
+            branch: '1.7.5.x'
             composerv1: 1
             phpunit-version: 'phpunit:6.4.3'
           - php-version: '7.2'
-            branch: '1.7.4.0'
+            branch: '1.7.5.x'
             composerv1: 1
             phpunit-version: 'phpunit:6.4.3'
 
@@ -136,7 +145,7 @@ jobs:
 
   deploy:
     needs: ['test']
-#    if: success() && github.event_name == 'push' && github.repository_owner == 'retailcrm' && github.ref == 'refs/heads/master'
+    if: success() && github.event_name == 'push' && github.repository_owner == 'retailcrm' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -163,7 +172,7 @@ jobs:
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
-#        if: env.LAST_TAG != env.RELEASE_TAG
+        if: env.LAST_TAG != env.RELEASE_TAG
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
@@ -175,5 +184,5 @@ jobs:
       - name: Deploy
         run: make build_archive
       - name: Cleanup
-#        if: env.LAST_TAG != env.RELEASE_TAG
+        if: env.LAST_TAG != env.RELEASE_TAG
         run: make delete_archive
