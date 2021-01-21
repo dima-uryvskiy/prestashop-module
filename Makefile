@@ -17,7 +17,7 @@ delete_archive:
 composer: clone_prestashop
 	cd $(PRESTASHOP_DIR) && git checkout $(BRANCH)
 ifeq ($(COMPOSERV1),1)
-	cd $(PRESTASHOP_DIR) && php composer install --prefer-dist --no-interaction --no-progress
+	cd $(PRESTASHOP_DIR) && php -r "copy('https://getcomposer.org/download/1.10.17/composer.phar', 'composer.phar');" && php composer.phar install --prefer-dist --no-interaction --no-progress
 else
 	cd $(PRESTASHOP_DIR)/tests && composer install
 endif
@@ -39,7 +39,6 @@ setup_apache:
 before_script: composer
 	mkdir coverage
 ifeq ($(COMPOSERV1),1)
-
 	cd $(PRESTASHOP_DIR) && sed -i 's/--db_name=prestashop/--db_name=prestashop --db_user=root --db_password=root/g' travis-scripts/install-prestashop && bash travis-scripts/install-prestashop
 else
 	cd $(PRESTASHOP_DIR) && bash travis-scripts/install-prestashop.sh
