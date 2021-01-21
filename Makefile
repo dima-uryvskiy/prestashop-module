@@ -41,7 +41,7 @@ before_script: composer
 ifeq ($(COMPOSERV1),1)
 	cd $(PRESTASHOP_DIR) && sed -i 's/--db_name=prestashop/--db_name=prestashop --db_user=root --db_password=root/g' travis-scripts/install-prestashop && bash travis-scripts/install-prestashop
 else
-	cd $(PRESTASHOP_DIR) && bash travis-scripts/install-prestashop.sh
+	cd $(PRESTASHOP_DIR) && sed -i 's/--db_name=prestashop/--db_name=prestashop --db_user=root --db_password=root/g' travis-scripts/install-prestashop.sh && bash travis-scripts/install-prestashop.sh
 endif
 
 test:
