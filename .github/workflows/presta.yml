@@ -118,7 +118,7 @@ jobs:
         with:
           php-version: ${{ matrix.php-version }}
           coverage: xdebug
-          tools: composer:v2, ${{ matrix.phpunit-version }}
+          tools: composer:v2, ${{ matrix.phpunit-version }}, php-cs-fixer
           extensions: gd, mbstring, zip, mcrypt, pdo_mysql, dom
       - name: Start mysql service
         run: sudo /etc/init.d/mysql start
