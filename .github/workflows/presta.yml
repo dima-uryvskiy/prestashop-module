@@ -136,7 +136,7 @@ jobs:
 
   deploy:
     needs: ['test']
-    if: success() && github.event_name == 'push' && github.repository_owner == 'retailcrm' && github.ref == 'refs/heads/master'
+    #if: success() && github.event_name == 'push' && github.repository_owner == 'retailcrm' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -163,7 +163,7 @@ jobs:
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
-        if: env.LAST_TAG != env.RELEASE_TAG
+        #if: env.LAST_TAG != env.RELEASE_TAG
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
@@ -174,10 +174,10 @@ jobs:
           prerelease: false
       - name: Upload Release Asset
         id: upload-release-asset
-        if: env.LAST_TAG != env.RELEASE_TAG
+        #if: env.LAST_TAG != env.RELEASE_TAG
         uses: actions/upload-release-asset@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ${{ env.ARCHIVE_PATH }}
@@ -186,5 +186,5 @@ jobs:
       - name: Deploy
         run: make build_archive
       - name: Cleanup
-        if: env.LAST_TAG != env.RELEASE_TAG
+        #if: env.LAST_TAG != env.RELEASE_TAG
         run: make delete_archive
